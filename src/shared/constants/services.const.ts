@@ -1,0 +1,4 @@
+export enum ServicesConst {
+  IMAGE_SERVICE = "IMAGE_SERVICE",
+  DEMO_SERVER_SERVICE = "DEMO_SERVER_SERVICE",
+}
